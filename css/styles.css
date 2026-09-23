@@ -368,6 +368,10 @@ a { color: inherit; text-decoration: none; }
   max-width: 700px;
   margin: 0 auto;
 }
+.payments__grid--single {
+  grid-template-columns: minmax(160px, 220px);
+  justify-content: center;
+}
 .pay-badge {
   background: var(--card);
   border: 1px solid var(--border);
@@ -392,10 +396,7 @@ a { color: inherit; text-decoration: none; }
   font-size: 1.3rem;
   color: #0b0b0d;
 }
-.pay-badge--zelle .pay-badge__glyph { background: #a5f0c5; }
-.pay-badge--apple .pay-badge__glyph { background: #fff; color: #000; font-size: 1.6rem; }
-.pay-badge--cashapp .pay-badge__glyph { background: #7fe08a; }
-.pay-badge--venmo .pay-badge__glyph { background: #9fd3f0; }
+.pay-badge--chime .pay-badge__glyph { background: #4fd1c5; }
 
 /* Book */
 .book { padding: 90px 0; }

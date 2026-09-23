@@ -3,7 +3,7 @@
 Website for **Tatts by Munchkin**, a home-based tattoo artist in the Manchester area of Richmond, VA.
 
 - TikTok: [@tattsbymunchkin](https://www.tiktok.com/@tattsbymunchkin?_r=1&_t=ZP-99wxpHkwoLH)
-- Payments accepted: Zelle, Apple Pay, Cash App, Venmo
+- Payments accepted: Chime only
 
 ## Structure
 
